@@ -1,3 +1,5 @@
+![Preview Image](maxresdefault.jpg)
+
 AquaticDiscord
 Tip
 
